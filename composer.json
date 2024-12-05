@@ -1,0 +1,13 @@
+{
+    "name": "globalcrud/mvc",
+    "description": "Dynamic MVC CRUD System",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
